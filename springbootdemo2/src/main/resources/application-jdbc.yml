@@ -1,0 +1,8 @@
+#通过yml文件读取属性文件注入bean，需要yml文件命名为application
+my-config:
+  item1:
+    db: "a1"
+    sql: "select 1"
+  item2:
+    db: "b2"
+    sql: "insert into 1"

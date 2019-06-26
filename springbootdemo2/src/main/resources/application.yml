@@ -1,0 +1,17 @@
+server:
+  port: 8090
+  servlet:
+    context-path: /springboot_demo2
+spring:
+  mvc:
+    view:
+      prefix: /pages/
+      suffix: .jsp
+  profiles:
+    active: profile1
+logging:
+  config: classpath:logback-spring.xml
+
+conditional:
+  demo:
+    load: true

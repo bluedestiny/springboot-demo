@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+<item id="muItem_ADD" text="新建日志类型" />
+<item id="muItem_EDIT" text="重命名" />
+<item id="muItem_DELETE" text="删除"/>
+<item id="create_rule" text="新建规则"/>
+</menu>

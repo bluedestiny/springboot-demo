@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+<item id="muItem_ADD" text="新建条件" />
+<item id="create_rule" text="新建逻辑运算符"/>
+<item id="muItem_DELETE" text="删除"/>
+</menu>
